@@ -87,7 +87,6 @@ Tôi là Võ Trịnh Khang, sinh viên năm ba ngành Kỹ thuật phần mềm 
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TRINHKHANGITER&theme=tokyonight" alt="Profile details" />
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TRINHKHANGITER&theme=tokyonight&utcOffset=7" alt="Productive time" />
 
 </div>
 
