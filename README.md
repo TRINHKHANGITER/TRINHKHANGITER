@@ -73,9 +73,11 @@ Tôi là Võ Trịnh Khang, sinh viên năm ba ngành Kỹ thuật phần mềm 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=TRINHKHANGITER&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=2" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRINHKHANGITER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="Top languages" />
 
-<br />
+`<br /><br />`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TRINHKHANGITER&theme=tokyonight&hide_border=true&locale=vi&v=2)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=TRINHKHANGITER&theme=tokyonight&hide_border=true&locale=vi&type=svg" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -85,8 +87,7 @@ Tôi là Võ Trịnh Khang, sinh viên năm ba ngành Kỹ thuật phần mềm 
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TRINHKHANGITER&theme=tokyonight" alt="Profile details" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TRINHKHANGITER&theme=tokyonight" alt="Summary stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TRINHKHANGITER&theme=tokyonight&utcOffset=7" alt="Productive time" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TRINHKHANGITER&theme=tokyonight&utcOffset=7" alt="Productive time" />
 
 </div>
 
