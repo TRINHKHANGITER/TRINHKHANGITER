@@ -70,17 +70,20 @@ Tôi là Võ Trịnh Khang, sinh viên năm ba ngành Kỹ thuật phần mềm 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TRINHKHANGITER&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRINHKHANGITER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TRINHKHANGITER&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=2" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRINHKHANGITER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" alt="Top languages" />
 
-<br 
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TRINHKHANGITER&theme=tokyonight&hide_border=true&locale=vi&v=2)](https://git.io/streak-stats)
+
+</div>
 
 ## Activity Summary
 
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TRINHKHANGITER&theme=tokyonight" alt="Profile details" />
-
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TRINHKHANGITER&theme=tokyonight" alt="Summary stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TRINHKHANGITER&theme=tokyonight&utcOffset=7" alt="Productive time" />
@@ -99,12 +102,3 @@ Tôi là Võ Trịnh Khang, sinh viên năm ba ngành Kỹ thuật phần mềm 
 - GitHub: [github.com/TRINHKHANGITER](https://github.com/TRINHKHANGITER)
 - LinkedIn: [linkedin.com/in/twynkhazg](https://www.linkedin.com/in/twynkhazg/)
 - Portfolio: [trinhkhangiter.github.io](https://trinhkhangiter.github.io/)
-
-## Tools used in this profile README
-
-[![GitHub Profile README Generator](https://img.shields.io/badge/Profile%20README%20Generator-rahuldkjain-0ea5e9?style=flat&logo=github)](https://github.com/rahuldkjain/github-profile-readme-generator)
-[![GitHub Readme Stats](https://img.shields.io/badge/GitHub%20Readme%20Stats-anuraghazra-0ea5e9?style=flat&logo=github)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak Stats](https://img.shields.io/badge/GitHub%20Streak%20Stats-DenverCoder1-0ea5e9?style=flat&logo=github)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Profile Views Counter](https://img.shields.io/badge/Profile%20Views%20Counter-antonkomarev-0ea5e9?style=flat&logo=github)](https://github.com/antonkomarev/github-profile-views-counter)
-[![Profile Summary Cards](https://img.shields.io/badge/Profile%20Summary%20Cards-vn7n24fzkq-0ea5e9?style=flat&logo=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Shields](https://img.shields.io/badge/Badges-Shields-0ea5e9?style=flat&logo=shieldsdotio)](https://github.com/badges/shields)
